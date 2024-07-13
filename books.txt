@@ -1,0 +1,6 @@
+hindi
+english
+maths
+physics
+chemistry
+
